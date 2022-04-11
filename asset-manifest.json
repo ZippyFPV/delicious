@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZippyFPV/delicious.git/static/css/main.b900fb6d.css",
+    "main.js": "/ZippyFPV/delicious.git/static/js/main.2a6f9949.js",
+    "index.html": "/ZippyFPV/delicious.git/index.html",
+    "main.b900fb6d.css.map": "/ZippyFPV/delicious.git/static/css/main.b900fb6d.css.map",
+    "main.2a6f9949.js.map": "/ZippyFPV/delicious.git/static/js/main.2a6f9949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b900fb6d.css",
+    "static/js/main.2a6f9949.js"
+  ]
+}
