@@ -2,7 +2,7 @@
   "name": "delicious",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ZippyFPV/delicious.git",
+  "homepage": "https://zippyfpv.github.io/delicious/",
   "dependencies": {
     "@splidejs/react-splide": "^0.6.20",
     "@testing-library/jest-dom": "^5.16.2",
